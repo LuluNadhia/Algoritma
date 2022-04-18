@@ -1,0 +1,13 @@
+Nama : Lulu Nadhiatun Anisa
+Kelas : 2C Teknik Informatika
+Nim : 21090066
+
+Greedy Algorithm adalah Metode untuk memecahkan persoalan optimasi. Greedy sendiri diambil dari bahasa inggris yang artinya rakus, 
+tamak atau serakah. Prinsip algoritma greedy adalah: “take what you can get now!”. Algoritman ini dengan bentuk setiap langkah yang akan 
+kita ambil dengan sebuah keputusan secara optimal tanpa harus memperhatikan konsekuensi pada langkah selanjutnya. 
+
+Contoh Implementasinya : 
+-Memilih beberapa jenis investasi (penanaman modal)
+– Mencari jalur tersingkat dari Bandung ke Surabaya
+– Memilih jurusan di Perguruan Tinggi
+– Bermain kartu remi
